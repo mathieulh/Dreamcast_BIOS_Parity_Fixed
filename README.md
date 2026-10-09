@@ -58,3 +58,6 @@ Because XOR is associative and linear, this whole calculation simplifies to:
 
 P = parity( b0 ⊕ b1 ⊕ b2 ⊕ … ⊕ b_{N‑1} )
 In other words, the BIOS is valid if the XOR of all its bytes contains an even number of 1 bits.
+
+
+NOTE: THIS HAS YET TO BE TESTED ON ACTUAL HARDWARE.
